@@ -6,7 +6,7 @@ import openai
 # Initializing FastAPI app
 app = FastAPI()
 
-api_key = "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"
+api_key = "Your API key here"
 openai.api_key = api_key
 
 # request model
